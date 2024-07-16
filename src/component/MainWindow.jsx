@@ -1,7 +1,7 @@
 
 const MainWindow = () => {
   return (
-    <div>MainWindow</div>
+    <img src="/1.jpg" alt="Mars demo picture" />
   )
 }
 

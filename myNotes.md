@@ -15,7 +15,7 @@ Nasa Api key
 - api is giving new <mark>picture</mark> of universe, <mark>name</mark> of the picture or the object, <mark>description</mark> of the picture, <mark>date</mark> of the day. This is the only information I need, there is other information api is givinig.
 - Probably have to use <mark>hdurl</mark> for the picture that is gonna fetched from api.(need to look into this)
 - api key place - response = apod_object_parser.get_data(<your_api_key>)
-- Api key has to go into .env file. Added .env file into gitignore
+- Api key has to go into .env file. Added .env file into gitignore done
 
 fonts
 
@@ -24,3 +24,7 @@ fonts
 icons
 
 - fontawsome --https://fontawesome.com/
+
+Demo Picture
+
+- https://unsplash.com/
